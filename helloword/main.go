@@ -1,7 +1,7 @@
 package main
 
 import (
-	"../common/controller"
+	"github.com/derekyu332/goii-examples/common/controller"
 	"github.com/derekyu332/goii/frame"
 	"github.com/derekyu332/goii/frame/base"
 	"github.com/derekyu332/goii/frame/behaviors"
