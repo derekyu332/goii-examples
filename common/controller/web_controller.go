@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"github.com/derekyu332/goii-examples/common/models"
 	"github.com/derekyu332/goii/frame/base"
+	"github.com/derekyu332/goii/frame/i18n"
 	"github.com/gin-gonic/gin"
 	goi18n "github.com/nicksnyder/go-i18n/v2/i18n"
-	"github.com/yuxinyun/goii/frame/i18n"
 )
 
 type WebController struct {
